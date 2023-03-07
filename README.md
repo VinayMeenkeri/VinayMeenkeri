@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🙏 My name is Vinay Meenkeri
 - 🔭 I have working experience of 7 years in Banking Industry.
 - 🌱 I’m currently doing my Masters in Applied Computer Science at Northwest Missouri State University
 - 👯 I’m looking to collaborate on Github .
