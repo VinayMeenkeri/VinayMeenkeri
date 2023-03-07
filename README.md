@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-**VinayMeenkeri/VinayMeenkeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I have working experience of 7 years in Banking Industry.
 - 🌱 I’m currently doing my Masters in Applied Computer Science at Northwest Missouri State University
 - 👯 I’m looking to collaborate on Github .
